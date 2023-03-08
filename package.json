@@ -1,0 +1,29 @@
+{
+  "name": "employeetracker5000",
+  "version": "1.0.0",
+  "description": "Employee Tracker Database using MySQL and Inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhdk707/EmployeeTracker5000.git"
+  },
+  "keywords": [
+    "employee",
+    "tracker",
+    "mysql"
+  ],
+  "author": "Jesse Hudak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhdk707/EmployeeTracker5000/issues"
+  },
+  "homepage": "https://github.com/jhdk707/EmployeeTracker5000#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql": "^2.18.1",
+    "node": "^19.6.1"
+  }
+}
