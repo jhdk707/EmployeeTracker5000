@@ -5,6 +5,7 @@
     console.table
     Javascript
     Node.js
+    FS
 
 # Installation
 
@@ -19,6 +20,7 @@
     npm i inquirer
     npm i mysql
     npm i console.table
+    npm i fs
     Make sure to run .sql file in mySQL workbench before running server.js so that tables are able to render correctly
     Run node server.js
     Make sure server.js is connected to SQL before continuing
