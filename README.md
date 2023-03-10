@@ -38,4 +38,4 @@ Employee Tracker 5000 is a CLI program that you can use to manage Employees, Dep
 
 ![Demo Video Screen Cap](images\VideoDemoScreenCap030923.png)
 
-![Demo Video Link](https://drive.google.com/file/d/19IVBJNb9zyHPnTN7BWms1mTpZqmoVhZ9/view)
+[Demo Video Link](https://drive.google.com/file/d/19IVBJNb9zyHPnTN7BWms1mTpZqmoVhZ9/view)
