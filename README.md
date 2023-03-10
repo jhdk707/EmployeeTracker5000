@@ -29,3 +29,8 @@
 # Repository
 
     https://github.com/jhdk707/EmployeeTracker5000
+
+# Demo Video
+
+![Demo Screen Cap](image url "Assets\VideoDemoScreenCap030923.jpg")
+https://drive.google.com/file/d/19IVBJNb9zyHPnTN7BWms1mTpZqmoVhZ9/view
