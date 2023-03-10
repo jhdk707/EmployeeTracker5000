@@ -26,7 +26,7 @@ Employee Tracker 5000 is a CLI program that you can use to manage Employees, Dep
     npm i console.table
     npm i fs
     Make sure to run .sql file in mySQL workbench before running server.js so that tables are able to render correctly
-    Run node server.js
+    Run npm start
     Make sure server.js is connected to SQL before continuing
     Run through prompts as required
 
