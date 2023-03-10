@@ -1,4 +1,8 @@
-# Dependencies
+# Employee Tracker 5000!
+
+Employee Tracker 5000 is a CLI program that you can use to manage Employees, Departments, Roles, Management and Salaries for your ever growing and changing company! Usage is quite simple and intuitive!
+
+## Dependencies
 
     inquirer
     mySQL
@@ -7,12 +11,12 @@
     Node.js
     FS
 
-# Installation
+## Installation
 
     Clone from GitHub
     Open project directory, then npm install to install all required dependencies
 
-# Usage
+## Usage
 
     Install npm init -y to create new .json file
     npm i
@@ -26,7 +30,7 @@
     Make sure server.js is connected to SQL before continuing
     Run through prompts as required
 
-# Repository
+### Repository
 
     https://github.com/jhdk707/EmployeeTracker5000
 
