@@ -32,5 +32,5 @@
 
 # Demo Video
 
-![Demo Screen Cap](image url "Assets\VideoDemoScreenCap030923.jpg")
+![Demo Screen Cap]("C:\Users\jhuda\bootcamp\EmployeeTracker5000\Assets\VideoDemoScreenCap030923.jpg")
 https://drive.google.com/file/d/19IVBJNb9zyHPnTN7BWms1mTpZqmoVhZ9/view
